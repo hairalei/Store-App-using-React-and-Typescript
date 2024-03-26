@@ -345,5 +345,3 @@ function App() {
 }
 export default App;
 ```
-
-- START CODING ALONG 😄😄😄😄😄
